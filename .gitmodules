@@ -1,0 +1,3 @@
+[submodule "src/srez"]
+	path = src/srez
+	url = https://github.com/wose/srez.git
