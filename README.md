@@ -21,3 +21,11 @@ Material for a talk at the
 > Filmen zur Verbrechensbekämpfung einsetzen?
 > 
 > *Zoom in, enhance!*
+
+## Post Talk Notes
+I mentioned some other projects which use neural nets to generate new
+information (images) sometimes without mentioning the project name or
+link to the repository. Here is a list of these projects. I'll update
+it within the next few days/weeks.
+
+- https://github.com/Newmu/dcgan_code
